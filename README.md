@@ -31,6 +31,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-carlos-eduardo-alves-viana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-alves-viana/)](https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
+[![Carlos Viana](https://img.shields.io/badge/-carlos-eduardo-alves-viana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-alves-viana/)](https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardostrink@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardostrink@gmail.com)](mailto:eduardostrink@gmail.com)
 [![carloseduardoalvesviana]( https://img.shields.io/github/followers/carlos-eduardo-alves-viana?label=follow&style=social)](carloseduardoalvesviana)
