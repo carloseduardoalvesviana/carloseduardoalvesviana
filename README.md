@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, tudo bem? Me chamo Carlos Viana, atualmente trabalho como Software Developer.
+  Olá, tudo bem? Me chamo Carlos Viana, atualmente trabalho como Software Developer e estou estudando a trilha ReactJs na Rocketseat.
 
   Skills: 
   Node.js, Express.js, Prisma, Supabase, Html, Css, Javascript, React, NextJs, Typescript, MongoDB, Supabase, Git.
