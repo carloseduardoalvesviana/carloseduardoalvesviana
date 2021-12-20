@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Html, Css, ReactJS, NextJS, NodeJS, Express, MongoDB, Prisma, Typescript</strong>
+  🦄 Linguagens: <strong>Javascript, Html, Css, ReactJS, NextJS, NodeJS, Express, MongoDB, Prisma, Typescript.</strong>
 </p>
 
 <p align="left">
