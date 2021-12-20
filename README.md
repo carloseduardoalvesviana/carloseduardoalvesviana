@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  💌 Opa tudo bem? se tiver alguma duvida ou se deseja saber mais sobre mim, não deixe de entrar em contato, um forte abraço!: ⤵️
+  💌 Opa tudo bem? se tiver alguma duvida ou se deseja saber mais sobre mim, não deixe de entrar em contato, um forte abraço!⤵️
 </p>
 
 <p align="left">
