@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou desenvolvedor Front End com conhecimentos em Html, Css, Javascript, React.js e Next.js. Busco sempre criar aplicações inovadoras que facilitem a vida dos usuários.
+  Sou desenvolvedor Front End com conhecimentos em Html, Css, Javascript, Supabase, Typescript, React.js e Next.js. Busco sempre criar aplicações inovadoras que facilitem a vida dos usuários.
 
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
