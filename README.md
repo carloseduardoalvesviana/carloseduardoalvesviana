@@ -1,13 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou desenvolvedor Front End com conhecimentos em Html, Css, Javascript, Supabase, Typescript, React.js e Next.js. Busco sempre criar aplicações inovadoras que facilitem a vida dos usuários.
+  Olá, tudo bem? meu nome é Carlos Eduardo Viana tenho 24 anos, Sou um desenvolvedor Front End que busca sempre criar aplicações inovadoras que facilitem a vida dos usuários.
+
+  ⚙️ Tech skills:
+  HTML, CSS, JavaScript, TypeScript, Supabase, React.js, Next.js.
 
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
-  Meu Github: https://github.com/carloseduardoalvesviana
+  Meu Github:
+  https://github.com/carloseduardoalvesviana
 
-  E-mail: eduardostrink@gmail.com
+  E-mail:
+  eduardostrink@gmail.com
 </p>
 
 <p align="left">
