@@ -1,28 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, tudo bem? Me chamo Carlos Viana, atualmente trabalho como Software Developer e estou estudando a trilha ReactJs na Rocketseat.
+  Sou desenvolvedor Front End com conhecimentos em Html, Css, Javascript, React.js e Next.js. Busco sempre criar aplicações inovadoras que facilitem a vida dos usuários.
 
-  Skills: 
-  Node.js, Express.js, Prisma, Supabase, Html, Css, Javascript, React, NextJs, Typescript, MongoDB, Supabase, Git.
+  Sinta-se à vontade para entrar em contato comigo. Abraços;
 
-  Github: 
-  https://github.com/carloseduardoalvesviana
+  Meu Github: https://github.com/carloseduardoalvesviana
 
-  E-mail: 
-  eduardostrink@gmail.com
-</p>
-
-<p align="left">
-  🦄 Linguagens: <strong>Javascript, Html, Css, ReactJS, NextJS, NodeJS, Express, MongoDB, Prisma, Typescript.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Vscode, Insomnia, Devdocs</strong>
-</p>
-
-<p align="left">
-  💌 Opa tudo bem? se tiver alguma duvida ou se deseja saber mais sobre mim, não deixe de entrar em contato, um forte abraço!⤵️
+  E-mail: eduardostrink@gmail.com
 </p>
 
 <p align="left">
