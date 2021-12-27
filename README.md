@@ -8,9 +8,6 @@
 
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
-  Meu Github:
-  https://github.com/carloseduardoalvesviana
-
   E-mail:
   eduardostrink@gmail.com
 </p>
