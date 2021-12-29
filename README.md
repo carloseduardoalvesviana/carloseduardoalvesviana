@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, tudo bem? meu nome é Carlos Eduardo Viana tenho 24 anos, Sou um desenvolvedor Front End que busca sempre criar aplicações inovadoras que facilitem a vida dos usuários.
+  Olá, tudo bem? meu nome é Carlos Eduardo Viana. Sou um desenvolvedor Front End que busca sempre criar aplicações inovadoras que facilitem a vida dos usuários.
 
   ⚙️ Tech skills:
   HTML, CSS, JavaScript, TypeScript, Supabase, React.js, Next.js.
