@@ -1,10 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, tudo bem? meu nome é Carlos Eduardo Viana. Sou um desenvolvedor Front End que busca sempre criar aplicações inovadoras que facilitem a vida dos usuários.
+  Olá, tudo bem com você?
 
-  ⚙️ Tech skills:
-  HTML, CSS, JavaScript, TypeScript, Supabase, React.js, Next.js.
+  Meu nome é Carlos Eduardo Viana, Sou um desenvolvedor front end responsável por “dar vida” à interfaces me preocupando com a experiência do usuário.
+
+  Tenho conhecimentos nas seguintes tecnologias:
+  - Javascript
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Html
+  - Css
+  - Sass
+  - React.js
+  - Next.js
+  - Git.
 
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
