@@ -4,19 +4,7 @@
   Olá, tudo bem com você?
 
   Meu nome é Carlos Eduardo Viana, Sou um desenvolvedor front end responsável por “dar vida” à interfaces me preocupando com a experiência do usuário.
-
-  Tenho conhecimentos nas seguintes tecnologias:
-  - Javascript
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Html
-  - Css
-  - Sass
-  - React.js
-  - Next.js
-  - Git.
-
+  
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
   E-mail:
