@@ -1,17 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, tudo bem com você?
+  Frontend Developer dedicado à criar interfaces simples que proporcionam uma boa experiência ao usuário.
 
-  Meu nome é Carlos Eduardo Viana, Sou um desenvolvedor front end responsável por “dar vida” à interfaces me preocupando com a experiência do usuário.
-  
+  Já participei da criação de aplicações web utilizando html, css, javascript, reactjs, nextjs, supabase, git e github.
+
+  Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando oportunidades que me permitam desenvolver interfaces que tragam simplicidade ao usuário.
+
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
-  E-mail:
-  eduardostrink@gmail.com
-  
-  Portfólio:
-  https://carlos-viana-portfolio.vercel.app/
+  Portfólio: https://carlos-viana-portfolio.vercel.app/
 </p>
 
 <p align="left">
