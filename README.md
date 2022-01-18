@@ -1,15 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Frontend Developer dedicado à criar interfaces simples que proporcionam uma boa experiência ao usuário.
+<p align="left">
+  Desenvolvedor Front-End dedicado à criar interfaces que proporcionam uma boa experiência ao usuário.
 
-  Já participei da criação de aplicações web utilizando html, css, javascript, reactjs, nextjs, supabase, git e github.
+  Já participei da criação de aplicações web utilizando html, css, javascript, reactjs, nextjs, git e github.
 
-  Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando oportunidades que me permitam desenvolver interfaces que tragam simplicidade ao usuário.
+  Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando oportunidades que me permitam desenvolver interfaces que tragam facilidade ao usuário.
 
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
-  Portfólio: https://carlos-viana-portfolio.vercel.app/
+  Github: https://github.com/carloseduardoalvesviana
+  Email: eduardostrink@gmail.com
 </p>
 
 <p align="left">
