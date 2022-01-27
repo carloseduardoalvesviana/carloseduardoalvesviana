@@ -3,9 +3,9 @@
 <p align="left">
   Desenvolvedor Front-End dedicado à criar interfaces que proporcionam uma boa experiência ao usuário.
 
-  Já participei da criação de aplicações web utilizando html, css, javascript, reactjs, nextjs.
+  Já participei da criação de aplicações web utilizando html, css, javascript, reactjs e nextjs.
 
-  Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando oportunidades que me permitam desenvolver interfaces que tragam facilidade ao usuário.
+  Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando oportunidades como desenvolvedor front-end.
 
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
