@@ -5,12 +5,12 @@
 
   Já participei da criação de aplicações web utilizando html, css, javascript, reactjs e nextjs.
 
-  Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando oportunidades como desenvolvedor front-end.
+  Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando novas oportunidades como desenvolvedor front-end.
 
   Sinta-se à vontade para entrar em contato comigo. Abraços;
 
   Github: https://github.com/carloseduardoalvesviana
-  
+
   Email: eduardostrink@gmail.com
 </p>
 
