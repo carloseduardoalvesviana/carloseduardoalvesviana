@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-   Olá, tudo bem? me chamo Carlos Eduardo Viana, sou desenvolvedor Front-end, mas já participei da criação de aplicações web utilizando Node.js, Typescript, React.js e Next.js.
+   Olá, me chamo Carlos Eduardo e sou Desenvolvedor Front-End. 
+   
+   Tenho conhecimentos sobre Html, Css, Javascript, React.JS.
 
-   Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando novas oportunidades como desenvolvedor Front-end.
+   Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando novas oportunidades como desenvolvedor Front-End.
 
    Sinta-se à vontade para entrar em contato comigo. Abraços.
 
