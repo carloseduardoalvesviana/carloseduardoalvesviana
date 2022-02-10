@@ -3,7 +3,7 @@
 <p align="left">
   Desenvolvedor React dedicado à criar interfaces que proporcionam uma boa experiência ao usuário. Tenho conhecimentos sobre Html, Css, Javascript, React.js e Git.
 
-Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando uma oportunidades como desenvolvedor Front-End.
+Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando uma oportunidade como desenvolvedor Front-End.
 
 Estudando: 
 Redux, Redux Saga e Testes automatizados.
