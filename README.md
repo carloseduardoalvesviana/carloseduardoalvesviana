@@ -1,17 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-   Olá, me chamo Carlos Eduardo e sou Desenvolvedor Front-End. Tenho conhecimentos sobre Html, Css, Javascript, React.js, Next.js e Git.
+     Olá, me chamo Carlos Eduardo e sou Desenvolvedor Front-End dedicado à criar interfaces que proporcionam uma boa experiência ao usuário. Tenho conhecimentos sobre Html, Css, Javascript, React.js e Git.
 
    Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando novas oportunidades como desenvolvedor Front-End.
 
-   Atualmente estou estudando Redux e Testes automatizados.
+   Estudando: 
+   Redux, Redux Saga e Testes automatizados.
 
    Sinta-se à vontade para entrar em contato comigo. Abraços.
-
-   Github: https://github.com/carloseduardoalvesviana
-
    Email: eduardostrink@gmail.com
+
+   Projetos:
+   Github: https://github.com/carloseduardoalvesviana
 </p>
 
 <p align="left">
