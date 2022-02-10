@@ -1,16 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-   Olá, me chamo Carlos Eduardo e sou Desenvolvedor Front-End. 
-   
-   Tenho conhecimentos sobre Html, Css, Javascript, React.JS.
+   Olá, me chamo Carlos Eduardo e sou Desenvolvedor Front-End. Tenho conhecimentos sobre Html, Css, Javascript, React.JS.
 
    Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando novas oportunidades como desenvolvedor Front-End.
 
    Sinta-se à vontade para entrar em contato comigo. Abraços.
 
    Github: https://github.com/carloseduardoalvesviana
-
    Email: eduardostrink@gmail.com
 </p>
 
