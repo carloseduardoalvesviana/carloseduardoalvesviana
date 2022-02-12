@@ -5,8 +5,6 @@
 
   Tenho experiência no desenvolvimento de aplicações web utilizando Html, Css, Sass, Javascript e React.js. 
 
-  Github: https://github.com/carloseduardoalvesviana
-
   Sinta-se à vontade para entrar em contato comigo. Abraços.
   Email: eduardostrink@gmail.com
 </p>
