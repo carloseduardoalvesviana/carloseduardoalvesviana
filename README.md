@@ -5,9 +5,6 @@
 
   Tenho experiência no desenvolvimento de aplicações web utilizando Html, Css, Sass, Javascript e React.js. 
 
-  Gosto de desafios e contribuir com novas ideias. Atualmente estou buscando novas oportunidades como desenvolvedor Front-End.
-
-  Projetos:
   Github: https://github.com/carloseduardoalvesviana
 
   Sinta-se à vontade para entrar em contato comigo. Abraços.
