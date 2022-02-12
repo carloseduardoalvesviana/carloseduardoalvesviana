@@ -1,9 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Sou um Desenvolvedor Front-end com experiência no desenvolvimento de aplicações web utilizando Html, Css, Sass, Javascript, React.js, Git e Github.
+  Olá, me chamo Carlos Viana e sou Desenvolvedor Front-End com experiência em Html, Css, Sass, Javascript, Reactjs, Nextjs, Git e Github.
+
+  Gosto de desafios e contribuir com novas ideias, atualmente estou buscando novas oportunidade como Desenvolvedor Front-End.
 
   Github: https://github.com/carloseduardoalvesviana
+  
   Instagram: https://www.instagram.com/carlosviana.dev/
 </p>
 
