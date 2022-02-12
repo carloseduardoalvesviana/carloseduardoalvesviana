@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left">
   Olá, me chamo Carlos Viana, Sou um Desenvolvedor Front-End que gosta de desafios e contribuir com novas ideias.
 
