@@ -1,7 +1,11 @@
 <p align="left">
-  Olá, me chamo Carlos Viana, Sou um Desenvolvedor Front-End que gosta de desafios e contribuir com novas ideias.
+  Olá, me chamo Carlos Viana. 
 
-  Tecnologias: Html, Css, Sass, Javscript, Reactjs e Nextjs.
+  Sou um Front-End Developer dedicado e consistente que gosta de desafios e contribuir com novas ideias.
+
+  Tenho experiência com Html, Css, Sass, Javascript, Reactjs e Nextjs.
+
+  Atualmente buscando novas oportunidades como Front-End Developer.
 </p>
 
 <p align="left">
