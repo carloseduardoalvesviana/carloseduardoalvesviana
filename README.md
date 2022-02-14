@@ -1,11 +1,17 @@
 <p align="left">
-  Olá, me chamo Carlos Viana. 
+  Olá me chamo Carlos Viana. 
 
-  Sou um Front-End Developer dedicado e consistente que gosta de desafios e contribuir com novas ideias.
+  Sou Front-End Developer apaixonado por tecnologia. 
 
-  Tenho experiência com Html, Css, Sass, Javascript, Reactjs e Nextjs.
+  Possuo experiência na criação de SPAs com React.
 
-  Atualmente buscando novas oportunidades como Front-End Developer.
+  • Ferramentas: React.js, Next.js, Typescript,
+
+  ---
+
+  Contato:
+
+  E-mail: eduardostrink@gmail.com
 </p>
 
 <p align="left">
