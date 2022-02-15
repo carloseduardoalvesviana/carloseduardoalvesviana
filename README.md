@@ -5,7 +5,7 @@
 
   Possuo experiência na criação de SPAs com React.
 
-  • Ferramentas: React.js, Next.js, Typescript,
+  • Ferramentas: Javascript, React.js, Next.js.
 
   ---
 
