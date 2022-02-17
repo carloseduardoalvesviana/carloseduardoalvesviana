@@ -6,6 +6,7 @@
   Possuo experiência na criação de SPAs com React.
 
   • Ferramentas: Javascript, React.js.
+  
   • Estudando: Redux, Jest.
 
   ---
