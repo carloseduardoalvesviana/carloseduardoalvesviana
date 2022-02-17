@@ -1,7 +1,7 @@
 <p align="left">
   Olá me chamo Carlos Viana. 
 
-  Sou Front-End Developer apaixonado por tecnologia. 
+  Front-End Developer apaixonado por tecnologia. 
 
   Possuo experiência na criação de SPAs com React.
 
