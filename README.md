@@ -6,14 +6,14 @@
   Possuo experiência na criação de SPAs com React.
 
   • Ferramentas: Javascript, React.js.
-  
-  • Estudando: Redux, Jest.
 
   ---
 
   Contato:
 
   E-mail: eduardostrink@gmail.com
+  
+  Linkedin: linkedin.com/in/carlos-eduardo-alves-viana/
 </p>
 
 <p align="left">
