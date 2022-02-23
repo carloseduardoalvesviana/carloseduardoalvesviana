@@ -1,9 +1,9 @@
 <p align="left">
-  Desenvolvedor Front-End 💙
+  👋 Olá, Eu sou Carlos Viana. 
 
-  Olá, eu sou Carlos Viana, trabalho como Desenvolvedor Front-End e tenho alguns meses de experiência na área de Desenvolvimento web. Já trabalhei na criação de SPAs utilizando Javascript e Reactjs. Atualmente, utilizo Nextjs em meus projetos.
+  Sou um desenvolvedor front-end que gosta de construir UIs funcionais com JavaScript, Typescript, Reactjs, Nextjs e outras tecnologias de ponta. 
 
-  E-mail: eduardostrink@gmail.com
+  Já trabalhei na construção de SPAs utilizando Reactjs e atualmente utilizo Nextjs em meus projetos.
 </p>
 
 <p align="left">
