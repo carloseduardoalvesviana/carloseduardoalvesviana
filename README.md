@@ -5,17 +5,13 @@
 
   Hard Skills:
   
-  -Desenvolvimento web com Javascript e React.js;
-  
+  -Desenvolvimento web com Javascript e React.js; 
   -Consumo de APIs;
 
   Soft Skills:
   -Bom relacionamento interpessoal;
-  
   -Trabalho em equipe;
-  
   -Boa organização;
-  
   -Dinâmico e proativo.
 </p>
 
