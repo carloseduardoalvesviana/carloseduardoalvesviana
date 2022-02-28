@@ -3,7 +3,15 @@
 
   Sou um desenvolvedor front-end que gosta de construir UIs funcionais com JavaScript, Reactjs e outras tecnologias de ponta. 
 
-  Já trabalhei na construção de SPAs utilizando Reactjs.
+  Hard Skills:
+  -Desenvolvimento web com Javascript e React.js;
+  -Consumo de APIs;
+
+  Soft Skills:
+  -Bom relacionamento interpessoal;
+  -Trabalho em equipe;
+  -Boa organização;
+  -Dinâmico e proativo.
 </p>
 
 <p align="left">
