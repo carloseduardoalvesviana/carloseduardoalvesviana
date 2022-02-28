@@ -1,9 +1,9 @@
 <p align="left">
   👋 Olá, Eu sou Carlos Viana. 
 
-  Sou um desenvolvedor front-end que gosta de construir UIs funcionais com JavaScript, Typescript, Reactjs, Nextjs e outras tecnologias de ponta. 
+  Sou um desenvolvedor front-end que gosta de construir UIs funcionais com JavaScript, Reactjs e outras tecnologias de ponta. 
 
-  Já trabalhei na construção de SPAs utilizando Reactjs e atualmente utilizo Nextjs em meus projetos.
+  Já trabalhei na construção de SPAs utilizando Reactjs.
 </p>
 
 <p align="left">
