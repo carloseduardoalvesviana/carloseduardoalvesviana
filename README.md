@@ -1,13 +1,18 @@
 <p align="left">
   👋 Olá, Eu sou Carlos Viana. 
 
-  Sou um desenvolvedor front-end que gosta de construir UIs funcionais com JavaScript, Reactjs e outras tecnologias de ponta. 
+  Sou um desenvolvedor front-end que gosta de construir UIs funcionais com JavaScript, Reactjs e outras tecnologias de ponta.
 
-  Hard Skills:
-  Desenvolvimento web com Javascript, Typescript e React.js; Consumo de APIs; Supabase;
+  Hard Skills: 
+  - Desenvolvimento web com Javascript, Typescript e React.js; 
+  - Consumo de APIs; 
+  - Supabase (Firebase Alternative);
 
   Soft Skills: 
-  Bom relacionamento interpessoal; Trabalho em equipe; Boa organização; Dinâmico e proativo.
+  - Bom relacionamento interpessoal; 
+  - Trabalho em equipe;
+  - Organização; 
+  - Dinâmico e proativo.
 </p>
 
 <p align="left">
