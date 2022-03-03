@@ -4,7 +4,7 @@
   Front-end Developer que gosta de construir UIs funcionais com JavaScript, Reactjs e outras tecnologias de ponta.
 
   Hard Skills: 
-  - Desenvolvimento web com Javascript, Typescript e React.js; 
+  - Desenvolvimento web com Javascript e React.js; 
   - Consumo de APIs; 
   - Supabase (Firebase Alternative);
 
