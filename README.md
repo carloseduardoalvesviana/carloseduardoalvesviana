@@ -1,15 +1,13 @@
 <p align="left">
-  Front-end Developer que gosta de construir UIs com JavaScript, Reactjs e outras tecnologias de ponta.
+  💜 Front-end Developer. 
 
-  Hard Skills: 
-  - Desenvolvimento web com Javascript e React.js; 
-  - Consumo de APIs; 
-  - Supabase (Firebase Alternative);
+  Apaixonado por código, bugs e pizza🤷‍♂️;
 
-  Soft Skills: 
-  - Trabalho em equipe;
-  - Organização; 
-  - Dinâmico e proativo.
+  Trabalho com as seguintes tecnologias: Javascript, Typescript, Reactjs e Nextjs.
+
+  Sou um desenvolvedor organizado, dinâmico e proativo;
+
+  Github: https://github.com/carloseduardoalvesviana
 </p>
 
 <p align="left">
