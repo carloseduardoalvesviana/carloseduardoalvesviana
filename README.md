@@ -1,11 +1,11 @@
 <p align="left">
   💜 Front-end Developer. 
   
-  💼 1 ano de experiência
+  💼 1 ano de experiência;
 
   Apaixonado por código, bugs e pizza🤷‍♂️;
 
-  Trabalho com as seguintes tecnologias: Javascript, Typescript, Reactjs e Nextjs.
+  Trabalho com as seguintes tecnologias: Javascript, Typescript, Reactjs e Nextjs;
 
   Sou um desenvolvedor organizado, dinâmico e proativo;
 </p>
