@@ -1,7 +1,7 @@
 <p align="left">
-  💜 Full Stack Developer. 
+  💜 Desenvolvedor Front-end. 
 
-  Trabalho com as seguintes tecnologias: Javascript, Node.js, Next.js e Laravel.
+  Trabalho com as seguintes tecnologias: Javascript, Node.js, Next.js.
 
   Sou um desenvolvedor organizado, dinâmico e proativo;
 
