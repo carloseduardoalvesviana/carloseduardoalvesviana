@@ -1,5 +1,5 @@
 <p align="left">
-  💜 Desenvolvedor Full Stack. 
+  💜 Desenvolvedor Front-end. 
 
   Trabalho com as seguintes tecnologias: Javascript, Node.js, Next.js, Laravel, Vue.js.
 
