@@ -1,11 +1,5 @@
 <p align="left">
-  💜 Desenvolvedor Front-end. 
-
-  Trabalho com as seguintes tecnologias: Javascript, Node.js, Next.js, Laravel, Vue.js.
-
-  Sou um desenvolvedor organizado, dinâmico e proativo;
-
-  Github: https://github.com/carloseduardoalvesviana
+  💜 Full Stack Developer.
 </p>
 
 <p align="left">
