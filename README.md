@@ -1,5 +1,7 @@
 <p align="left">
   💜 Full Stack Developer.
+
+  Olá, me chamo Carlos Eduardo Viana, Sou um desenvolvedor full stack com experiência no desenvolvimento de aplicações web utilizando Node, Next.js Typescript e atualmente venho utilizando laravel e Vue.js em meus projetos.
 </p>
 
 <p align="left">
