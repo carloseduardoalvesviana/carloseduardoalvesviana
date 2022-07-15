@@ -1,5 +1,6 @@
 <p align="left">
-  Desenvolvedor full stack com conhecimentos no desenvolvimento de aplicações web utilizando Node, Next.js, Typescript, Laravel e Vuejs.
+  Desenvolvedor full stack.
+  Node,React.js, Next.js, Typescript.
 </p>
 
 <p align="left">
