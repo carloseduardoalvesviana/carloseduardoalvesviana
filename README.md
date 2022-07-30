@@ -1,6 +1,9 @@
 <p align="left">
-  Desenvolvedor full stack.
-  Node,React.js, Next.js, Typescript.
+  Olá, meu nome e Carlos Eduardo Viana.
+  Atualmente trabalho como Desenvolvedor Fullstack utilizando Laravel e Vue.js.
+
+  Conhecimentos: 
+  Javascript, Node.js, Typescript, Laravel e Vue.js.
 </p>
 
 <p align="left">
