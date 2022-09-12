@@ -2,7 +2,7 @@
   Desenvolvedor Fullstack.
   
   Tecnologias: 
-  Laravel, VueJS, Javascript, Typescript, ReactJS.
+  Laravel, VueJS, Javascript.
 </p>
 
 <p align="left">
