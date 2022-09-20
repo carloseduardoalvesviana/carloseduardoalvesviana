@@ -6,6 +6,7 @@
   - Laravel
   - Javascript
   - Vuejs
+  - Reactjs
 </p>
 
 <p align="left">
