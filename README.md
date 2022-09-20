@@ -1,8 +1,11 @@
 <p align="left">
-  Desenvolvedor Fullstack.
-  
-  Tecnologias: 
-  Laravel, VueJS, Javascript.
+  Desenvolvedor Fullstack apaixonado por tecnologia e programação. 
+
+  Tenho conhecimentos nas seguintes tecnologias:
+  - Php
+  - Laravel
+  - Javascript
+  - Vuejs
 </p>
 
 <p align="left">
