@@ -4,8 +4,8 @@
   Tenho conhecimentos nas seguintes tecnologias:
   - Php
   - Laravel
-  - Javascript
   - Vuejs
+  - Reactjs
 </p>
 
 <p align="left">
