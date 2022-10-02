@@ -1,11 +1,5 @@
 <p align="left">
-  Desenvolvedor Fullstack apaixonado por tecnologia e programação. 
-
-  Tenho conhecimentos nas seguintes tecnologias:
-  - Php
-  - Laravel
-  - Vuejs
-  - Reactjs
+ Olá, eu sou Carlos Viana, trabalho como Desenvolvedor Full Stack e tenho quase 2 anos de experiência na área de desenvolvimento. Já tendo trabalhado com Node, Express, Mongodb, Typescript e Nextjs. Atualmente trabalho com Vuejs no Frontend e Laravel no Backend.
 </p>
 
 <p align="left">
