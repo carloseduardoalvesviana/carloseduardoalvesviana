@@ -1,5 +1,9 @@
 <p align="left">
- Olá, eu sou Carlos Viana, trabalho como Desenvolvedor Full Stack e tenho quase 2 anos de experiência na área de desenvolvimento. Já tendo trabalhado com Node, Express, Mongodb, Typescript e Nextjs. Atualmente trabalho com Vuejs no Frontend e Laravel no Backend.
+ Front-End Developer.
+
+ I like to write readable code.
+
+ I currently work with vuejs and laravel.
 </p>
 
 <p align="left">
