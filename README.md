@@ -3,7 +3,9 @@
 
  I like to write readable code.
 
- I currently work with vuejs and laravel.
+ Experience in javascript, react.js and vue.js
+
+ I currently work with vue.js and laravel.
 </p>
 
 <p align="left">
