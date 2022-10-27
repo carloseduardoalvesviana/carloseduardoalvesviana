@@ -1,11 +1,6 @@
 <p align="left">
- Front-End Developer.
-
- I like to write readable code.
-
- Experience in javascript, react.js and vue.js
-
- I currently work with vue.js and laravel.
+ Desenvolvedor Front-End com quase dois anos de experiência em desenvolvimento web, já
+tendo trabalhado com Nodejs, Javascript, Reactjs e Nextjs. Atualmente trabalho com Vuejs e Laravel.
 </p>
 
 <p align="left">
