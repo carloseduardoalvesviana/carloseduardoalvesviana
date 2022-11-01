@@ -1,6 +1,9 @@
 <p align="left">
- Desenvolvedor Front-End com quase dois anos de experiência em desenvolvimento web, já
-tendo trabalhado com Nodejs, Javascript, Reactjs e Nextjs. Atualmente trabalho com Vuejs e Laravel.
+ Software Developer.
+
+ Dois anos de experiência.
+
+ Skills: Html, Css, Javascript, Nextjs, Vuejs, Vuetify, Laravel, Nodejs.
 </p>
 
 <p align="left">
