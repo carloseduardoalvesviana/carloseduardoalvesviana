@@ -1,9 +1,7 @@
 <p align="left">
  Software Developer.
 
- Dois anos de experiência.
-
- Skills: Html, Css, Javascript, Nextjs, Vuejs, Vuetify, Laravel, Nodejs.
+ Skills: Html, Css, Javascript, Reactjs, Nextjs, Vuejs, Vuetify, Laravel, Nodejs, Typescript. 
 </p>
 
 <p align="left">
