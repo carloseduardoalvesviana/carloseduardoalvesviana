@@ -1,6 +1,10 @@
 <p align="left">
- Desenvolvedor Full Stack. Há mais de 2 anos transformando café em código. 
- Tecnologias: Javascript, Git, Nodejs, Mongodb, Reactjs, Laravel e Vuejs. 
+ Desenvolvedor Full Stack.
+
+ Transformando café em código.
+
+ Tecnologias: Javascript, Git, Nodejs, Reactjs, Laravel e Vuejs.
+
  Atualmente trabalhando com Laravel e Vuejs.
 </p>
 
