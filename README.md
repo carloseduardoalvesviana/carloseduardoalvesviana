@@ -3,7 +3,7 @@
 
  Transformando café em código.
 
- Tecnologias: Javascript, Git, Nodejs, Reactjs, Laravel e Vuejs.
+ Tecnologias: Javascript, Sql, Mysql, Git, Php, Laravel e Vuejs.
 
  Atualmente trabalhando com Laravel e Vuejs.
 </p>
