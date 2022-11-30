@@ -4,8 +4,6 @@
  Transformando café em código.
 
  Tecnologias: Javascript, Sql, Mysql, Git, Php, Laravel e Vuejs.
-
- Atualmente trabalhando com Laravel e Vuejs.
 </p>
 
 <p align="left">
