@@ -3,7 +3,7 @@
 
  Transformando café em código.
 
- Tecnologias: Javascript, Sql, Mysql, Git, Php, Laravel e Vuejs.
+ Tecnologias: Javascript, Sql, Git, Php, Laravel, Vuejs.
 </p>
 
 <p align="left">
