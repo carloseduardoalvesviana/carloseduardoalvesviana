@@ -5,5 +5,6 @@
 
 ### About me
 I'm a {backend and frontend} developer.
+I like to write readable code.
 
 👨🏼‍💻 Php, Javascript, Sql, Laravel, Vuejs, Linux, Git and more.
