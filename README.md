@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-alves-viana/)](https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
 
 ### About me
-Transformando café em código.
-
 I'm a {backend and frontend} developer.
 
-- [Technologies] 👨🏼‍🏫 💻 - Php, Javascript, Sql, Laravel, Vuejs, Linux, Git and more.
+👨🏼‍🏫 💻
+- Php, Javascript, Sql, Laravel, Vuejs, Linux, Git and more.
