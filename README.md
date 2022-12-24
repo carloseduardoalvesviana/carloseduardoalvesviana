@@ -6,5 +6,4 @@
 ### About me
 I'm a {backend and frontend} developer.
 
-👨🏼‍🏫 💻
-- Php, Javascript, Sql, Laravel, Vuejs, Linux, Git and more.
+👨🏼‍💻 Php, Javascript, Sql, Laravel, Vuejs, Linux, Git and more.
