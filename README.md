@@ -9,4 +9,12 @@ I'm a {backend and frontend} developer.
 I like to write readable code. 👨🏼‍💻 
 
 Work with the following technologies
-- Php, Javascript, Sql, Laravel, Vuejs, Linux, Git and more.
+- Php.
+- Javascript.
+- Sql. 
+- Laravel. 
+- Vuejs.
+- Linux. 
+- Git and more.
+
+Thanks...
