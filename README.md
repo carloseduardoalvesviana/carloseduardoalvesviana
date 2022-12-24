@@ -5,6 +5,7 @@
 
 ### About me
 Transformando café em código.
+
 I'm a {backend and frontend} developer.
 
 - [Technologies] 👨🏼‍🏫 💻 - Php, Javascript, Sql, Laravel, Vuejs, Linux, Git and more.
