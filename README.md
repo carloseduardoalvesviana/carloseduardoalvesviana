@@ -1,13 +1,10 @@
-<p align="left">
- Desenvolvedor Full Stack.
+# Hi, I'm Carlos! :D
 
- Transformando café em código.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/fagnerpsantos](https://github.com/carloseduardoalvesviana))](https://github.com/carloseduardoalvesviana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-alves-viana/)](https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
 
- Tecnologias: Javascript, Sql, Git, Php, Laravel, Vuejs.
-</p>
+### About me
+Transformando café em código.
+I'm a {backend and frontend} developer.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-alves-viana" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-alves-viana/" />
-  </a>
-</p>
+- [Technologies] 👨🏼‍🏫 💻 - Php, Javascript, Sql, Laravel, Vuejs, Linux, Git and more.
