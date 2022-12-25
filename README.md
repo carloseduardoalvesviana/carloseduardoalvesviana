@@ -17,4 +17,4 @@ Work with the following technologies
 - Linux. 
 - Git and more.
 
-Thanks...
+Thanks for reading.
