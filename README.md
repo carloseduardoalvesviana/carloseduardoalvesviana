@@ -10,8 +10,6 @@ I like to write readable code. 👨🏼‍💻
 
 Work with the following technologies
 - Javascript
-- Sql
-- NoSQL
 - Laravel 
 - Vue.js
 - Node.js
