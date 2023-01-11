@@ -12,6 +12,7 @@ Work with the following technologies
 - Javascript
 - Laravel 
 - Vue.js
+- React.js
 - Node.js
 - Express.js
 - MongoDB
