@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Carlos Viana
-- 👀 Atualmente trabalho utilizando Laravel, Mysql e VueJS.
+- 👀 Atualmente trabalho utilizando Laravel e VueJS.
 - 🌱 Tecnologias: Javascript, Node.js, MongoDB, Mysql, Express.js, PHP, Laravel, SQL e VueJS.
 - 💞️ Gosto de ajudar e compartilhar conhecimento.
 
