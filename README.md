@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **EWORK**
 
-- 🌱 I’m currently learning **Laravel, TDD, Devops**
-
 - 📫 How to reach me **eduardostrink@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
