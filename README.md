@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Viana</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack Developer from Brazil</h3>
 
 - 🔭 I’m currently working on **EWORK**
 
