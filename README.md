@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carlos Viana</h1>
-<h3 align="center">Backend developer.</h3>
+<h1 align="left">Hi 👋, I'm Carlos Viana</h1>
+<h3 align="left">Backend developer.</h3>
 
 - 🔭 I’m currently working on **EWORK**
 
