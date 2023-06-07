@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **EWORK**
 
-- 🌱 I’m currently learning **Laravel, PHP, PHP Unit, Docker, RabbitMQ, Apache Kafka, CI/CD**
-
 - 👯 I’m looking to collaborate on **eduk**
 
 - 📫 How to reach me **eduardostrink@gmail.com**
