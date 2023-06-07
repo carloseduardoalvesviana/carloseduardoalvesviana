@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **EWORK**
 
-- 👯 I’m looking to collaborate on **eduk**
-
 - 📫 How to reach me **eduardostrink@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
