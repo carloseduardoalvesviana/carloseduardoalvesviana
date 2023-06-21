@@ -1,11 +1,6 @@
-<h3 align="left">Full Stack Developer.</h3>
+### Hey, I'm Carlos! 👋🏾
+Full Stack Developer. <br>
+Parnaiba, Brasil 🇧🇷
 
-Olá me chamo carlos, tenho experiência na criação de aplicações web, sou curioso, comunicativo e estou de mente aberta para aprender novas tecnologias.
-
-Tecnologias que possuo conhecimento: 
-- PHP, Laravel, PHP Unit
-- Javascript, NodeJS, ExpressJs, Typescript, VueJs, ReactJS
-- MySQL, MongoDb
-- Git, Github, CI/CD
-
-https://linkedin.com/in/carlos-eduardo-alves-viana
+#### 🚶🏾‍♂️ Follow me on 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-alves-viana/)](https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
