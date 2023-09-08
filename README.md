@@ -1,8 +1,7 @@
-Hey, I'm Carlos! 👋🏾
+Olá, me chamo carlos! 👋🏾
 
-💻 Full-stack Developer.
+💻 Trabalho como Desenvolvedor Full-Stack.
 
-3+ years of full-stack web development experience
-Experience with Laravel, Vue.js, Node.js, React.js, Express.js, MongoDB and Supabase
+Tenho experiência com: Laravel, VueJs, NodeJs, ExpressJs, Mysql, MongoDb e Linux.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-alves-viana/)](https://www.linkedin.com/in/carlos-eduardo-alves-viana/)
