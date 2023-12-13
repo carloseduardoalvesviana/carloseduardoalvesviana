@@ -1,7 +1,10 @@
-👋 Olá, eu sou Carlos Eduardo, um entusiasta de tecnologia e desenvolvedor de software. 
+👋 Olá! Eu sou Carlos Viana, um desenvolvedor full-stack com mais de 4 anos de experiência apaixonado por criar soluções inovadoras. Ao longo da minha jornada, adquiri habilidades em diversas tecnologias, frameworks e práticas de desenvolvimento, incluindo:
 
-🛠️ Tenho experiência prática com Laravel, Vue.js e JavaScript.
+Linguagens e Frameworks: PHP, Javascript, Nodejs, Laravel, MVC, PHP OO.
+Testes: PHP Unit.
+Webservices: APIs REST, Desenvolvimento e integração.
+Frameworks Front-end: Vue.js, React.js.
+Banco de Dados: MySQL.
+Contêinerização: Docker.
 
-🔧 Também tenho experiência com Git para controle de versão, Linux e habilidades em SQL para interação com bancos de dados.
-
-🚀 Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para projetos inovadores.
+🚀 "Em cada linha de código, encontramos a oportunidade de criar algo extraordinário."
