@@ -1,10 +1,3 @@
-👋 Olá! Eu sou Carlos Viana, um desenvolvedor full-stack com mais de 4 anos de experiência apaixonado por criar soluções inovadoras. Ao longo da minha jornada, adquiri habilidades em diversas tecnologias, frameworks e práticas de desenvolvimento, incluindo:
-
-Linguagens e Frameworks: PHP, Javascript, Nodejs, Laravel, MVC, PHP OO.
-Testes: PHP Unit.
-Webservices: APIs REST, Desenvolvimento e integração.
-Frameworks Front-end: Vue.js, React.js.
-Banco de Dados: MySQL.
-Contêinerização: Docker.
-
-🚀 "Em cada linha de código, encontramos a oportunidade de criar algo extraordinário."
+Desenvolvedor full-stack com experiência em desenvolvimento e manutenção de sistemas web, utilizando Laravel e Vue. 
+Criação de APIs com Laravel, PHP, Mysql e Oracle Cloud Infrastructure.
+Integrações com meios de pagamento, implementação de arquiteturas Multi-tenant e migração de sistemas legados.
