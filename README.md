@@ -1,6 +1,8 @@
-Software Engineer
+### Software Engineer
 
-- PHP, Laravel e Vue.js.
-- Design de APIs REST.
-- Banco de dados relacional (MYSQL).
-- Arquiteturas multi-tenant.
+- **Languages**: Javascript, Typescript, PHP
+- **Frameworks**: Node.js, React.js, Vue.js, Laravel
+- **Principles**: SOLID, DDD, Clean Architecture
+- **Design**: REST APIs
+- **Database**: MySQL
+- **Architecture**: Multi-tenant
