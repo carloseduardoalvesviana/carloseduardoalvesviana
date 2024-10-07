@@ -1,9 +1,4 @@
-
----
-
 # 👨‍💻 Desenvolvedor Full Stack
-
-### Olá!
 
 ---
 
