@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Conecte-se comigo:
 
-- [LinkedIn]((https://www.linkedin.com/in/carlos-viana-563999293/))
+- [LinkedIn](https://www.linkedin.com/in/carlos-viana-563999293/)
 - [Dev.to](https://dev.to/carloseduardoalvesviana)
 
 
