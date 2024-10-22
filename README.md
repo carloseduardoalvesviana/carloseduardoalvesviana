@@ -4,7 +4,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas:
 
-- **Backend:** PHP, Laravel, Node.js, Express.js
+- **Backend:** PHP, Laravel.
 - **Frontend:** Vue.js, JavaScript
 - **Banco de Dados:** MySQL, SQL
 - **Metodologias:** Programação Orientada a Objetos (OOP), SOLID.
