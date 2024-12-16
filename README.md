@@ -1,14 +1,8 @@
-# 👨‍💻 Desenvolvedor Full Stack
+# 👨‍💻 Software Engineer
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas:
-
-- **Backend:** PHP, Laravel.
-- **Frontend:** Vue.js, JavaScript
-- **Banco de Dados:** MySQL, SQL
-- **Metodologias:** Programação Orientada a Objetos (OOP), SOLID.
-- **Outros:** Docker, Git, GitHub, APIs REST.
+Sou alguém que realmente acredita no poder da tecnologia para transformar ideias em soluções. Minha jornada profissional me levou a trabalhar em projetos que vão desde a criação de plataformas capazes de atender múltiplos clientes, até a integração com serviços externos para resolver problemas reais do dia a dia.
 
 ---
 
