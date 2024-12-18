@@ -1,4 +1,4 @@
-# 👨‍💻 Software Engineer
+# 👨‍💻 Software Developer
 
 ---
 
