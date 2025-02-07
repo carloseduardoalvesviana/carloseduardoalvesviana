@@ -2,9 +2,11 @@
 
 ---
 
-Sou um profissional apaixonado por tecnologia e pelo seu poder de transformar ideias em soluções eficientes. Tenho experiência no desenvolvimento de plataformas para múltiplos clientes, criação de APIs para uso externo, construção de sistemas completos e integrações com serviços como meios de pagamento e Dropbox, sempre focando em resolver desafios reais.
+Tenho experiência na criação de sistemas multi-tenant, no desenvolvimento de APIs REST e em integrações com serviços externos, como gateways de pagamento (Zoop) e soluções de armazenamento em nuvem (Dropbox). 
 
-Atuo com tecnologias e princípios como Laravel, PHP, SOLID, orientação a objetos, JavaScript, Docker e Vue.js na empresa onde trabalho, além de explorar outras tecnologias em projetos paralelos para aprimorar minhas habilidades e expandir meu conhecimento.
+Trabalho com tecnologias como Laravel, Express.js, Knex e MySQL para o desenvolvimento backend, Docker para conteinerização e deploy automatizado com Coolify (self-hostable), além de Vue.js com PrimeVue para a criação de interfaces dinâmicas e responsivas. 
+
+Além disso, compartilho conhecimento por meio de artigos técnicos no Dev.to e projetos no GitHub. 
 
 ---
 
