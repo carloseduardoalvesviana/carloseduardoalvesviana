@@ -2,15 +2,15 @@
 
 ---
 
-Tenho experiência em **desenvolvimento de sistemas multi-tenant**, criação de **APIs REST** e integrações com **gateways de pagamento** e **soluções de armazenamento em nuvem**.
+I have experience in **multi-tenant system development**, creating **REST APIs**, and integrating with **payment gateways** and **cloud storage solutions**.
 
-Atuo com tecnologias como **Laravel**, **PHP**, **Node.js**, **Docker** e **Vue.js**.
+I work with technologies such as **Laravel**, **PHP**, **Node.js**, **Docker**, and **Vue.js**.
 
-Além disso, compartilho meus conhecimentos por meio de **artigos técnicos no Dev.to** e **projetos no GitHub**.
+Additionally, I share my knowledge through **technical articles on Dev.to** and **projects on GitHub**.
 
 ---
 
-## 🧑‍💻 Conecte-se comigo:
+## 🧑‍💻 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-viana-563999293/)
 - [Dev.to](https://dev.to/carloseduardoalvesviana)
