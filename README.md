@@ -2,11 +2,11 @@
 
 ---
 
-Tenho experiência na criação de sistemas multi-tenant, no desenvolvimento de APIs REST e em integrações com serviços externos, como gateways de pagamento (Zoop) e soluções de armazenamento em nuvem (Dropbox). 
+Tenho experiência em **desenvolvimento de sistemas multi-tenant**, criação de **APIs REST** e integrações com **gateways de pagamento** e **soluções de armazenamento em nuvem**.
 
-Trabalho com tecnologias como Laravel, Express.js, Knex e MySQL para o desenvolvimento backend, Docker para conteinerização e deploy automatizado com Coolify (self-hostable), além de Vue.js com PrimeVue para a criação de interfaces dinâmicas e responsivas. 
+Atuo com tecnologias como **Laravel**, **PHP**, **Node.js**, **Docker** e **Vue.js**.
 
-Além disso, compartilho conhecimento por meio de artigos técnicos no Dev.to e projetos no GitHub. 
+Além disso, compartilho meus conhecimentos por meio de **artigos técnicos no Dev.to** e **projetos no GitHub**.
 
 ---
 
@@ -14,5 +14,3 @@ Além disso, compartilho conhecimento por meio de artigos técnicos no Dev.to e 
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-viana-563999293/)
 - [Dev.to](https://dev.to/carloseduardoalvesviana)
-
-
