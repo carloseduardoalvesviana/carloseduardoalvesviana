@@ -1,11 +1,12 @@
 # Software Engineer
 
-Engenheiro de Software com experiência no desenvolvimento de sistemas multi-tenant, APIs RESTful, serviços de worker, front-end, bancos de dados relacionais, integrações com gateways de pagamento e soluções de armazenamento em nuvem.
+Engenheiro de Software com experiência no desenvolvimento de sistemas multi-tenant, APIs RESTful, Service Worker, front-end, bancos de dados relacionais, integrações com gateways de pagamento e soluções de armazenamento em nuvem.
 
 ### Tecnologias Utilizadas no Dia a Dia:
 - **Linguagens e Frameworks:** PHP, Laravel, Vue.js, JavaScript, Node.js, Knex.js  
 - **Ferramentas e Plataformas:** Dropbox, Docker, Git, GitHub, Coolify, Oracle Cloud  
 - **Arquitetura:** MVC e REST
+
 
 ---
 
