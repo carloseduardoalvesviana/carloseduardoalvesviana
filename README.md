@@ -1,5 +1,5 @@
-# Software Developer
+Desenvolvedor de Software | Multi-tenant | APIs | Front-end | Integrações em Nuvem
 
-Desenvolvedor com experiência em sistemas multi-tenant, APIs RESTful, front-end, bancos de dados relacionais (SQL), integrações com gateways de pagamento e armazenamento em nuvem.
+Experiencia com desenvolvimento de sistemas multi-tenant, APIs RESTful e soluções front-end. Conhecimentos em bancos de dados SQL, integrações com gateways de pagamento (Zoop) e armazenamento em nuvem (DropBox).
 
-Tecnologias: Node.js, Laravel, TypeScript, REST, GraphQL, Vue.js 3, Testes.
+Tecnologias: JavaScript, TypeScript, PHP, Laravel, Express.js, Node.js, Vue.js, Docker, Git, GitHub.
