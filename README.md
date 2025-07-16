@@ -1,1 +1,1 @@
-Atuo como desenvolvedor de software, utilizando JavaScript, Docker, PHP e Node.js. Tenho experiência no desenvolvimento de sistemas multi-tenant, APIs RESTful e front-end, além de conhecimento em bancos de dados SQL, integração com gateways de pagamento e armazenamento em nuvem.
+Atuo como Software Engineer, utilizando JavaScript, Docker, PHP e Node.js. Tenho experiência no desenvolvimento de sistemas multi-tenant, APIs RESTful e front-end, além de conhecimento em bancos de dados SQL, integração com gateways de pagamento e armazenamento em nuvem.
