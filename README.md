@@ -1,3 +1,1 @@
-Software Engineer
-
-Tenho experiência no desenvolvimento de sistemas multi-tenant, criar e consumir APIs RESTful, além de conhecimento em bancos de dadods, integração com gateways de pagamento e armazenamento em nuvem.
+Software Developer com experiência no desenvolvimento de sistemas multi-tenant e na criação de APIs RESTful. Possuo conhecimento em Node.js, TypeScript, Laravel, Vue.js, Docker e JavaScript, atuando principalmente no back-end e na integração de sistemas, incluindo gateways de pagamento, serviços de envio de SMS e WhatsApp e soluções de armazenamento em nuvem.
