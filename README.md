@@ -1,1 +1,1 @@
-Desenvolvedor de Software com experiência em sistemas multi-tenant e criação de APIs RESTful. Atuo principalmente no desenvolvimento back-end e na integração de sistemas, incluindo gateways de pagamento, serviços de envio de SMS, WhatsApp e soluções de armazenamento em nuvem.
+Software Engineer com experiência em sistemas multi-tenant e criação de APIs RESTful. Atuo principalmente no desenvolvimento back-end e na integração de sistemas, incluindo gateways de pagamento (Zoop), serviços de envio de SMS (Nvoip), WhatsApp (Z-Api) e soluções de armazenamento em nuvem (DropBox).
