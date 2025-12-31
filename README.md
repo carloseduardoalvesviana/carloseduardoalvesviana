@@ -1,2 +1,3 @@
-💻 Software Engineer com experiência em sistemas multi-tenant e criação de APIs RESTful.
-Atuo principalmente no desenvolvimento back-end e na integração de sistemas, com foco em soluções escaláveis e de alto desempenho. Tenho experiência em integrações com gateways de pagamento, serviços de SMS, WhatsApp e armazenamento em nuvem.
+Software Engineer
+
+Responsável pelo planejamento e desenvolvimento de sistemas, com experiência em ambientes multi-tenant e na integração entre plataformas. Atuo na implementação de fluxos relacionados a meios de pagamento, comunicação via mensageria e SMS, além da integração com serviços de armazenamento de arquivos em nuvem.
