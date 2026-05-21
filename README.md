@@ -1,3 +1,3 @@
-Software Engineer | Backend
+Software Developer | Backend
 
-Responsável pelo planejamento e desenvolvimento de sistemas, com experiência em ambientes multi-tenant e na integração entre plataformas. Atuo na implementação de fluxos relacionados a meios de pagamento, comunicação via mensageria e SMS, além da integração com serviços de armazenamento de arquivos em nuvem.
+Atuo no desenvolvimento de sistemas multi-tenant com múltiplos bancos de dados, criação e manutenção de APIs para integração de clientes externos ao sistema principal e integração com diversos serviços externos, incluindo meios de pagamento, APIs de envio de mensagens via WhatsApp e serviços de armazenamento em nuvem, como Dropbox. Também participo do planejamento técnico, manutenção de aplicações, análise de performance e correção de bugs.
